@@ -1,6 +1,6 @@
 # College-World-App
 
-College World App is an online portal that show the best colleges and university with complete details
+College World App is an online portal that shows the best colleges and university with complete details
 
 The application show courses for each colleges, fees strucutre and curriculam
 
